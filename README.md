@@ -39,6 +39,11 @@ This tool checks URL text only. It does not visit websites, verify domain owners
 ## Ethical Use
 Use this tool for learning and awareness. Do not enter passwords or sensitive information.
 
-## Possible Improvements
-- Allow multiple URLs in one session.
-- Add clearer input validation and a final warning summary.
+## Implemented Improvements
+- **Multiple URL checking:** Users can inspect multiple sample URLs in one session without restarting the program.
+- **Quit command:** Users can type `quit` to exit the checker cleanly.
+
+## Future Improvements
+
+- Add stronger URL input validation.
+- Provide a clearer final warning summary.
